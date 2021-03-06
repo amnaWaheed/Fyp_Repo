@@ -1,0 +1,8 @@
+.wishlist_icon{
+    font-size:1.3rem;
+    color:rgb(223, 211, 211);
+    margin-right: -0.8rem;
+}
+.wishlist_icon:hover{
+    color:orangered;
+}
